@@ -1,6 +1,6 @@
 # Política de privacidad de Wabri — Web Agent Bridge
 
-Vigente desde el 28 de octubre de 2026.
+Vigente desde el 29 de octubre de 2026.
 
 Wabri es una extensión de Chrome que conecta el chat de IA que tú elijas (Copilot Chat, ChatGPT o DeepSeek) con una página que tú vinculas, para automatizar tareas **paso a paso y bajo tu supervisión**. Wabri no tiene servidores propios: **el desarrollador no recibe, no guarda y no vende ningún dato**.
 
@@ -40,7 +40,7 @@ Wabri solo comparte datos cuando tú lo decides:
 - **Panel lateral, pestañas y grupos de pestañas**: mostrar el panel, saber qué pestaña vas a vincular y agrupar las pestañas de la tarea.
 - **Acceso a sitios**: los tres chats de IA y, solo cuando pulsas «Vincular», el sitio que vinculas (Chrome te lo pregunta).
 - **Scripting**: leer y operar la página vinculada.
-- **Depurador (`debugger`)**: hacer clics y escribir como una persona en la pestaña vinculada, mientras una tarea corre. Chrome lo muestra con la barra «está depurando este navegador». No se usa para leer cookies, tráfico de red ni para ejecutar código.
+- **Depurador (`debugger`)**: hacer clics y escribir como una persona en la pestaña vinculada y mantener activa la pestaña del chat de IA aunque estés en otra, solo mientras una tarea corre. Chrome lo muestra con la barra «está depurando este navegador». No se usa para leer cookies, tráfico de red ni para ejecutar código.
 - **Almacenamiento**: guardar lo descrito arriba en tu navegador.
 
 ## Sin telemetría ni código remoto
